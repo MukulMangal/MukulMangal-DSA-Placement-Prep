@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
 ## Greedy
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0100-same-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0572-subtree-of-another-tree) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0100-same-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0572-subtree-of-another-tree) |
@@ -51,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0572-subtree-of-another-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
