@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0039-combination-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
 ## Greedy
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
