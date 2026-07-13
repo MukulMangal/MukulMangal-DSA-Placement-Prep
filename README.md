@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0102-binary-tree-level-order-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0543-diameter-of-binary-tree) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0102-binary-tree-level-order-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0543-diameter-of-binary-tree) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0100-same-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0543-diameter-of-binary-tree) |
@@ -92,8 +95,13 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
