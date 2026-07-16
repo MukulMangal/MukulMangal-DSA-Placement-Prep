@@ -14,8 +14,6 @@ public:
             for(int i = 0 ; i < n/2 ; i++){
                 ans+=gcd(prefixGcd[i] , prefixGcd[n-1-i]);
             }
-            return ans;
-        
-        
+            return ans;   
     }
 };
