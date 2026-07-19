@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1207-unique-number-of-occurrences](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1207-unique-number-of-occurrences) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [1207-unique-number-of-occurrences](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
