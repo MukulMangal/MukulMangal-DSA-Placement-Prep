@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0257-binary-tree-paths) |
+| [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [0572-subtree-of-another-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1207-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
