@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0102-binary-tree-level-order-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
 | [0662-maximum-width-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0104-maximum-depth-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -176,9 +179,14 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
