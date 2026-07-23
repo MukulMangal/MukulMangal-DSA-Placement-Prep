@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String Matching
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0409-longest-palindrome) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
