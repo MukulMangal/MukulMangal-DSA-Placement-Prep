@@ -5,18 +5,16 @@ public:
         int j = numbers.size()-1;
 
         while(i<j){
+            int sum = numbers[i]+numbers[j];
 
-            int sum = numbers[i] + numbers[j];
-            if(sum == target){
-                return {i+1 , j+1};
-            }
-            else if(sum> target){
-                j--;
-            }
-            else{
-                i++;
-            }
+            if(sum == target) return{i+1 , j+1};
+
+            if(sum < target) i++;
+
+            if(sum > target) j--;
+            
         }
-        return {-1 , -1};
+        return { -1 , -1};
+        
     }
 };
