@@ -1,9 +1,8 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        int fMax = INT_MIN;
-        int secMax = INT_MIN;
-        int mod = 10;
+        int fMax = -1;
+        int secMax = -1;
         while(n>0){
             int digit = n % 10;
             if(digit > fMax){
