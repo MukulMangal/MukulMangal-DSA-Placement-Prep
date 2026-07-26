@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0881-boats-to-save-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
