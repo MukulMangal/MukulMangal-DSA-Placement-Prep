@@ -9,6 +9,5 @@ public:
             currMax = max(currMax , nums[i]); 
         }
         return ans;
-        
     }
 };
