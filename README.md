@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1207-unique-number-of-occurrences](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0881-boats-to-save-people) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -219,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0207-course-schedule) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
