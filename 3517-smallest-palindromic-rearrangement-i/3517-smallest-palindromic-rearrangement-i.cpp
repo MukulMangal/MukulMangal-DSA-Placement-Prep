@@ -18,11 +18,9 @@ public:
     string right = left;
     reverse(right.begin(), right.end());
 
-    if(s.size() % 2==0){
-        return left + right;
-    }
-    else{
-        return left + middle + right;
-    }
+    if (middle == '\0')
+    return left + right;
+
+    return left + middle + right;
     }
 };
