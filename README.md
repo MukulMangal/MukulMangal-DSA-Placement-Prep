@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0039-combination-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0059-spiral-matrix-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
@@ -199,11 +200,13 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0059-spiral-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
