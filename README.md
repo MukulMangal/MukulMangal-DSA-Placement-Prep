@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0409-longest-palindrome) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
