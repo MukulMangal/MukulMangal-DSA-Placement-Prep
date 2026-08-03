@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0881-boats-to-save-people) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0409-longest-palindrome) |
 | [1207-unique-number-of-occurrences](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1207-unique-number-of-occurrences) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0881-boats-to-save-people](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0881-boats-to-save-people) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Math
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0881-boats-to-save-people) |
