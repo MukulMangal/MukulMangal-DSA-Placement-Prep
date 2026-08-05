@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0053-maximum-subarray) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0350-intersection-of-two-arrays-ii) |
