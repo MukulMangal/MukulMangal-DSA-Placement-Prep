@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0073-set-matrix-zeroes](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
