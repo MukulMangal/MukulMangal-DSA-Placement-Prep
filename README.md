@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0877-stone-game) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0001-two-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0217-contains-duplicate](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0409-longest-palindrome) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
