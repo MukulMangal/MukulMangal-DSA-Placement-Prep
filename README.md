@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0053-maximum-subarray) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0881-boats-to-save-people) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
