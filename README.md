@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String Matching
 |  |
 | ------- |
+| [0065-valid-number](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
