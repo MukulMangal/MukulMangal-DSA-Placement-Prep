@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0881-boats-to-save-people](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0881-boats-to-save-people) |
 | [0994-rotting-oranges](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1037-valid-boomerang](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1037-valid-boomerang) |
 | [1207-unique-number-of-occurrences](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1025-divisor-game) |
+| [1037-valid-boomerang](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1037-valid-boomerang) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1025-divisor-game) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
