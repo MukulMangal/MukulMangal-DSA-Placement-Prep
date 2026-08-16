@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1260-shift-2d-grid](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0134-gas-station](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0409-longest-palindrome) |
 | [0881-boats-to-save-people](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0881-boats-to-save-people) |
+| [2029-stone-game-ix](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [1025-divisor-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1037-valid-boomerang) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3536-maximum-product-of-two-digits) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Counting Sort
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0877-stone-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1025-divisor-game) |
+| [2029-stone-game-ix](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
 | ------- |
@@ -316,4 +321,16 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
