@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [3222-find-the-winning-player-in-coin-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
