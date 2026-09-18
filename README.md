@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0112-path-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0112-path-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0112-path-sum](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0145-binary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
