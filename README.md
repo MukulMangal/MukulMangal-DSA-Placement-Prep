@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0877-stone-game) |
