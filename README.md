@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
