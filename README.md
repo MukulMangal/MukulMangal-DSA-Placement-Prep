@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0007-reverse-integer) |
+| [0231-power-of-two](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0877-stone-game) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Union-Find
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/2029-stone-game-ix) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
