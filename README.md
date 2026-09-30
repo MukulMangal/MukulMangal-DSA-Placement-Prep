@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1025-divisor-game) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/3222-find-the-winning-player-in-coin-game) |
