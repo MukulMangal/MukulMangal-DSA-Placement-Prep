@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0009-palindrome-number](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1025-divisor-game) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/1009-complement-of-base-10-integer) |
@@ -373,4 +375,5 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
