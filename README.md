@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String Matching
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0257-binary-tree-paths) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -376,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0231-power-of-two](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0342-power-of-four) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
