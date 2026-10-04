@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0053-maximum-subarray](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Binary Search Tree
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0099-recover-binary-search-tree) |
