@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0098-validate-binary-search-tree) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0007-reverse-integer](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0342-power-of-four) |
@@ -384,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0020-valid-parentheses) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
