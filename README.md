@@ -394,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0069-sqrtx) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/MukulMangal/MukulMangal-DSA-Placement-Prep/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
